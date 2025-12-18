@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(distributed_node LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_library(node_lib SHARED src/node.cpp src/message.cpp src/network.cpp)
+target_include_directories(node_lib PUBLIC include)

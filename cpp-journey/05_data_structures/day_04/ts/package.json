@@ -1,0 +1,17 @@
+{
+    "name": "ds-cli",
+    "version": "1.0.0",
+    "description": "Data structures CLI using C++ backend",
+    "main": "dist/cli.js",
+    "bin": {
+        "ds-cli": "dist/cli.js"
+    },
+    "scripts": {
+        "build": "tsc",
+        "start": "node dist/cli.js"
+    },
+    "devDependencies": {
+        "@types/node": "^20.0.0",
+        "typescript": "^5.0.0"
+    }
+}

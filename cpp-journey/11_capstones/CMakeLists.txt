@@ -1,0 +1,4 @@
+cmake_minimum_required(VERSION 3.16)
+add_subdirectory(capstone_01_game_engine/cpp)
+add_subdirectory(capstone_02_compiler/cpp)
+add_subdirectory(capstone_03_distributed/cpp)

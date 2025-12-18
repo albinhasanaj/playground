@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(ds_day_02 LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_executable(linked_list src/main.cpp src/linked_list.cpp)
+target_include_directories(linked_list PRIVATE include)

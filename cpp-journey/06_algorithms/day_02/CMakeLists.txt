@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(algo_day_02 LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_executable(searching src/main.cpp src/searching.cpp)
+target_include_directories(searching PRIVATE include)

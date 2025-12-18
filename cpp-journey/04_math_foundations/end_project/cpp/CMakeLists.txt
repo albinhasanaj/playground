@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.16)
+project(linalg_lib LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_library(linalg_full SHARED src/matrix.cpp src/decomposition.cpp src/solver.cpp)
+target_include_directories(linalg_full PUBLIC include)
+add_executable(linalg_test src/main.cpp)
+target_link_libraries(linalg_test PRIVATE linalg_full)

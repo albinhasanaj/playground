@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.16)
+add_subdirectory(day_01)
+add_subdirectory(day_02)
+add_subdirectory(day_03)
+add_subdirectory(day_04)
+add_subdirectory(end_project/cpp)
