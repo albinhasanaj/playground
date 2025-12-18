@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libvecmath.dylib -install_name @rpath/libvecmath.dylib CMakeFiles/vecmath.dir/src/vec3.cpp.o CMakeFiles/vecmath.dir/src/mat4.cpp.o CMakeFiles/vecmath.dir/src/transform.cpp.o

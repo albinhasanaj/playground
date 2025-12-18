@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(db_day_01 LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_executable(table_storage src/main.cpp src/table.cpp src/page.cpp)
+target_include_directories(table_storage PRIVATE include)

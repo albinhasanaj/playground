@@ -1,0 +1,392 @@
+[
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/day_01",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_01/include -std=gnu++17 -arch arm64 -o CMakeFiles/conditionals.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_01/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_01/src/main.cpp",
+  "output": "01_basics/day_01/CMakeFiles/conditionals.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/day_01",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_01/include -std=gnu++17 -arch arm64 -o CMakeFiles/conditionals.dir/src/conditionals.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_01/src/conditionals.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_01/src/conditionals.cpp",
+  "output": "01_basics/day_01/CMakeFiles/conditionals.dir/src/conditionals.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/day_02",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_02/include -std=gnu++17 -arch arm64 -o CMakeFiles/loops.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_02/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_02/src/main.cpp",
+  "output": "01_basics/day_02/CMakeFiles/loops.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/day_02",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_02/include -std=gnu++17 -arch arm64 -o CMakeFiles/loops.dir/src/loops.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_02/src/loops.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_02/src/loops.cpp",
+  "output": "01_basics/day_02/CMakeFiles/loops.dir/src/loops.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/day_03",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_03/include -std=gnu++17 -arch arm64 -o CMakeFiles/arrays.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_03/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_03/src/main.cpp",
+  "output": "01_basics/day_03/CMakeFiles/arrays.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/day_03",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_03/include -std=gnu++17 -arch arm64 -o CMakeFiles/arrays.dir/src/arrays.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_03/src/arrays.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_03/src/arrays.cpp",
+  "output": "01_basics/day_03/CMakeFiles/arrays.dir/src/arrays.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/day_04",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_04/include -std=gnu++17 -arch arm64 -o CMakeFiles/functions.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_04/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_04/src/main.cpp",
+  "output": "01_basics/day_04/CMakeFiles/functions.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/day_04",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_04/include -std=gnu++17 -arch arm64 -o CMakeFiles/functions.dir/src/math_functions.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_04/src/math_functions.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_04/src/math_functions.cpp",
+  "output": "01_basics/day_04/CMakeFiles/functions.dir/src/math_functions.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/day_05",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_05/include -std=gnu++17 -arch arm64 -o CMakeFiles/headers_demo.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_05/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_05/src/main.cpp",
+  "output": "01_basics/day_05/CMakeFiles/headers_demo.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/day_05",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_05/include -std=gnu++17 -arch arm64 -o CMakeFiles/headers_demo.dir/src/geometry.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_05/src/geometry.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_05/src/geometry.cpp",
+  "output": "01_basics/day_05/CMakeFiles/headers_demo.dir/src/geometry.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/day_05",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_05/include -std=gnu++17 -arch arm64 -o CMakeFiles/headers_demo.dir/src/physics.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_05/src/physics.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_05/src/physics.cpp",
+  "output": "01_basics/day_05/CMakeFiles/headers_demo.dir/src/physics.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/day_05",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_05/include -std=gnu++17 -arch arm64 -o CMakeFiles/headers_demo.dir/src/utils.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_05/src/utils.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/day_05/src/utils.cpp",
+  "output": "01_basics/day_05/CMakeFiles/headers_demo.dir/src/utils.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/end_project",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/end_project/include -std=gnu++17 -arch arm64 -o CMakeFiles/calculator.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/end_project/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/end_project/src/main.cpp",
+  "output": "01_basics/end_project/CMakeFiles/calculator.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/end_project",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/end_project/include -std=gnu++17 -arch arm64 -o CMakeFiles/calculator.dir/src/calculator.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/end_project/src/calculator.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/end_project/src/calculator.cpp",
+  "output": "01_basics/end_project/CMakeFiles/calculator.dir/src/calculator.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/end_project",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/end_project/include -std=gnu++17 -arch arm64 -o CMakeFiles/calculator.dir/src/parser.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/end_project/src/parser.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/end_project/src/parser.cpp",
+  "output": "01_basics/end_project/CMakeFiles/calculator.dir/src/parser.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/01_basics/end_project",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/end_project/include -std=gnu++17 -arch arm64 -o CMakeFiles/calculator.dir/src/analyzer.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/end_project/src/analyzer.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/01_basics/end_project/src/analyzer.cpp",
+  "output": "01_basics/end_project/CMakeFiles/calculator.dir/src/analyzer.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/02_core_cpp/day_01",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_01/include -std=gnu++17 -arch arm64 -o CMakeFiles/references.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_01/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_01/src/main.cpp",
+  "output": "02_core_cpp/day_01/CMakeFiles/references.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/02_core_cpp/day_01",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_01/include -std=gnu++17 -arch arm64 -o CMakeFiles/references.dir/src/references.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_01/src/references.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_01/src/references.cpp",
+  "output": "02_core_cpp/day_01/CMakeFiles/references.dir/src/references.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/02_core_cpp/day_02",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_02/include -std=gnu++17 -arch arm64 -o CMakeFiles/const_correctness.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_02/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_02/src/main.cpp",
+  "output": "02_core_cpp/day_02/CMakeFiles/const_correctness.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/02_core_cpp/day_02",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_02/include -std=gnu++17 -arch arm64 -o CMakeFiles/const_correctness.dir/src/const_demo.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_02/src/const_demo.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_02/src/const_demo.cpp",
+  "output": "02_core_cpp/day_02/CMakeFiles/const_correctness.dir/src/const_demo.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/02_core_cpp/day_03",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_03/include -std=gnu++17 -arch arm64 -o CMakeFiles/enums_structs.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_03/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_03/src/main.cpp",
+  "output": "02_core_cpp/day_03/CMakeFiles/enums_structs.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/02_core_cpp/day_03",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_03/include -std=gnu++17 -arch arm64 -o CMakeFiles/enums_structs.dir/src/shapes.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_03/src/shapes.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_03/src/shapes.cpp",
+  "output": "02_core_cpp/day_03/CMakeFiles/enums_structs.dir/src/shapes.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/02_core_cpp/day_03",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_03/include -std=gnu++17 -arch arm64 -o CMakeFiles/enums_structs.dir/src/colors.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_03/src/colors.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_03/src/colors.cpp",
+  "output": "02_core_cpp/day_03/CMakeFiles/enums_structs.dir/src/colors.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/02_core_cpp/day_04",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_04/include -std=gnu++17 -arch arm64 -o CMakeFiles/classes.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_04/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_04/src/main.cpp",
+  "output": "02_core_cpp/day_04/CMakeFiles/classes.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/02_core_cpp/day_04",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_04/include -std=gnu++17 -arch arm64 -o CMakeFiles/classes.dir/src/vector2d.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_04/src/vector2d.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_04/src/vector2d.cpp",
+  "output": "02_core_cpp/day_04/CMakeFiles/classes.dir/src/vector2d.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/02_core_cpp/day_04",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_04/include -std=gnu++17 -arch arm64 -o CMakeFiles/classes.dir/src/counter.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_04/src/counter.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/day_04/src/counter.cpp",
+  "output": "02_core_cpp/day_04/CMakeFiles/classes.dir/src/counter.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/02_core_cpp/end_project/cpp",
+  "command": "/usr/bin/c++ -Dmathcore_EXPORTS -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/end_project/cpp/include -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/mathcore.dir/src/vector.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/end_project/cpp/src/vector.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/end_project/cpp/src/vector.cpp",
+  "output": "02_core_cpp/end_project/cpp/CMakeFiles/mathcore.dir/src/vector.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/02_core_cpp/end_project/cpp",
+  "command": "/usr/bin/c++ -Dmathcore_EXPORTS -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/end_project/cpp/include -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/mathcore.dir/src/matrix.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/end_project/cpp/src/matrix.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/end_project/cpp/src/matrix.cpp",
+  "output": "02_core_cpp/end_project/cpp/CMakeFiles/mathcore.dir/src/matrix.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/02_core_cpp/end_project/cpp",
+  "command": "/usr/bin/c++ -Dmathcore_EXPORTS -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/end_project/cpp/include -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/mathcore.dir/src/stats.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/end_project/cpp/src/stats.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/end_project/cpp/src/stats.cpp",
+  "output": "02_core_cpp/end_project/cpp/CMakeFiles/mathcore.dir/src/stats.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/02_core_cpp/end_project/cpp",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/end_project/cpp/include -std=gnu++17 -arch arm64 -o CMakeFiles/mathcore_test.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/end_project/cpp/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/02_core_cpp/end_project/cpp/src/main.cpp",
+  "output": "02_core_cpp/end_project/cpp/CMakeFiles/mathcore_test.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/03_memory_and_functions/day_01",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_01/include -std=gnu++17 -arch arm64 -o CMakeFiles/stack_heap.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_01/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_01/src/main.cpp",
+  "output": "03_memory_and_functions/day_01/CMakeFiles/stack_heap.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/03_memory_and_functions/day_01",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_01/include -std=gnu++17 -arch arm64 -o CMakeFiles/stack_heap.dir/src/memory_demo.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_01/src/memory_demo.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_01/src/memory_demo.cpp",
+  "output": "03_memory_and_functions/day_01/CMakeFiles/stack_heap.dir/src/memory_demo.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/03_memory_and_functions/day_02",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_02/include -std=gnu++17 -arch arm64 -o CMakeFiles/pointers.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_02/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_02/src/main.cpp",
+  "output": "03_memory_and_functions/day_02/CMakeFiles/pointers.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/03_memory_and_functions/day_02",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_02/include -std=gnu++17 -arch arm64 -o CMakeFiles/pointers.dir/src/pointer_ops.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_02/src/pointer_ops.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_02/src/pointer_ops.cpp",
+  "output": "03_memory_and_functions/day_02/CMakeFiles/pointers.dir/src/pointer_ops.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/03_memory_and_functions/day_03",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_03/include -std=gnu++17 -arch arm64 -o CMakeFiles/raii.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_03/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_03/src/main.cpp",
+  "output": "03_memory_and_functions/day_03/CMakeFiles/raii.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/03_memory_and_functions/day_03",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_03/include -std=gnu++17 -arch arm64 -o CMakeFiles/raii.dir/src/resource.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_03/src/resource.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_03/src/resource.cpp",
+  "output": "03_memory_and_functions/day_03/CMakeFiles/raii.dir/src/resource.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/03_memory_and_functions/day_04",
+  "command": "/usr/bin/c++ -Dmemory_utils_EXPORTS -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_04/include -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/memory_utils.dir/src/memory_utils.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_04/src/memory_utils.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_04/src/memory_utils.cpp",
+  "output": "03_memory_and_functions/day_04/CMakeFiles/memory_utils.dir/src/memory_utils.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/03_memory_and_functions/day_04",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_04/include -std=gnu++17 -arch arm64 -o CMakeFiles/memory_test.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_04/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/day_04/src/main.cpp",
+  "output": "03_memory_and_functions/day_04/CMakeFiles/memory_test.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/03_memory_and_functions/end_project/cpp",
+  "command": "/usr/bin/c++ -Dvecmath_EXPORTS -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/end_project/cpp/include -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/vecmath.dir/src/vec3.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/end_project/cpp/src/vec3.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/end_project/cpp/src/vec3.cpp",
+  "output": "03_memory_and_functions/end_project/cpp/CMakeFiles/vecmath.dir/src/vec3.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/03_memory_and_functions/end_project/cpp",
+  "command": "/usr/bin/c++ -Dvecmath_EXPORTS -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/end_project/cpp/include -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/vecmath.dir/src/mat4.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/end_project/cpp/src/mat4.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/end_project/cpp/src/mat4.cpp",
+  "output": "03_memory_and_functions/end_project/cpp/CMakeFiles/vecmath.dir/src/mat4.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/03_memory_and_functions/end_project/cpp",
+  "command": "/usr/bin/c++ -Dvecmath_EXPORTS -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/end_project/cpp/include -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/vecmath.dir/src/transform.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/end_project/cpp/src/transform.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/end_project/cpp/src/transform.cpp",
+  "output": "03_memory_and_functions/end_project/cpp/CMakeFiles/vecmath.dir/src/transform.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/03_memory_and_functions/end_project/cpp",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/end_project/cpp/include -std=gnu++17 -arch arm64 -o CMakeFiles/vecmath_test.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/end_project/cpp/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/03_memory_and_functions/end_project/cpp/src/main.cpp",
+  "output": "03_memory_and_functions/end_project/cpp/CMakeFiles/vecmath_test.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/04_math_foundations/day_01",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_01/include -std=gnu++17 -arch arm64 -o CMakeFiles/matrices.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_01/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_01/src/main.cpp",
+  "output": "04_math_foundations/day_01/CMakeFiles/matrices.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/04_math_foundations/day_01",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_01/include -std=gnu++17 -arch arm64 -o CMakeFiles/matrices.dir/src/matrix.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_01/src/matrix.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_01/src/matrix.cpp",
+  "output": "04_math_foundations/day_01/CMakeFiles/matrices.dir/src/matrix.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/04_math_foundations/day_02",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_02/include -std=gnu++17 -arch arm64 -o CMakeFiles/transforms.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_02/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_02/src/main.cpp",
+  "output": "04_math_foundations/day_02/CMakeFiles/transforms.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/04_math_foundations/day_02",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_02/include -std=gnu++17 -arch arm64 -o CMakeFiles/transforms.dir/src/transform.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_02/src/transform.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_02/src/transform.cpp",
+  "output": "04_math_foundations/day_02/CMakeFiles/transforms.dir/src/transform.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/04_math_foundations/day_03",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_03/include -std=gnu++17 -arch arm64 -o CMakeFiles/numerical.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_03/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_03/src/main.cpp",
+  "output": "04_math_foundations/day_03/CMakeFiles/numerical.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/04_math_foundations/day_03",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_03/include -std=gnu++17 -arch arm64 -o CMakeFiles/numerical.dir/src/numerical.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_03/src/numerical.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/day_03/src/numerical.cpp",
+  "output": "04_math_foundations/day_03/CMakeFiles/numerical.dir/src/numerical.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/04_math_foundations/end_project/cpp",
+  "command": "/usr/bin/c++ -Dlinalg_full_EXPORTS -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/end_project/cpp/include -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/linalg_full.dir/src/matrix.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/end_project/cpp/src/matrix.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/end_project/cpp/src/matrix.cpp",
+  "output": "04_math_foundations/end_project/cpp/CMakeFiles/linalg_full.dir/src/matrix.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/04_math_foundations/end_project/cpp",
+  "command": "/usr/bin/c++ -Dlinalg_full_EXPORTS -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/end_project/cpp/include -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/linalg_full.dir/src/decomposition.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/end_project/cpp/src/decomposition.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/end_project/cpp/src/decomposition.cpp",
+  "output": "04_math_foundations/end_project/cpp/CMakeFiles/linalg_full.dir/src/decomposition.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/04_math_foundations/end_project/cpp",
+  "command": "/usr/bin/c++ -Dlinalg_full_EXPORTS -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/end_project/cpp/include -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/linalg_full.dir/src/solver.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/end_project/cpp/src/solver.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/end_project/cpp/src/solver.cpp",
+  "output": "04_math_foundations/end_project/cpp/CMakeFiles/linalg_full.dir/src/solver.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/04_math_foundations/end_project/cpp",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/end_project/cpp/include -std=gnu++17 -arch arm64 -o CMakeFiles/linalg_test.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/end_project/cpp/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/04_math_foundations/end_project/cpp/src/main.cpp",
+  "output": "04_math_foundations/end_project/cpp/CMakeFiles/linalg_test.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/05_data_structures/day_01",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_01/include -std=gnu++17 -arch arm64 -o CMakeFiles/dynamic_array.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_01/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_01/src/main.cpp",
+  "output": "05_data_structures/day_01/CMakeFiles/dynamic_array.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/05_data_structures/day_01",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_01/include -std=gnu++17 -arch arm64 -o CMakeFiles/dynamic_array.dir/src/dynamic_array.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_01/src/dynamic_array.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_01/src/dynamic_array.cpp",
+  "output": "05_data_structures/day_01/CMakeFiles/dynamic_array.dir/src/dynamic_array.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/05_data_structures/day_02",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_02/include -std=gnu++17 -arch arm64 -o CMakeFiles/linked_list.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_02/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_02/src/main.cpp",
+  "output": "05_data_structures/day_02/CMakeFiles/linked_list.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/05_data_structures/day_02",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_02/include -std=gnu++17 -arch arm64 -o CMakeFiles/linked_list.dir/src/linked_list.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_02/src/linked_list.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_02/src/linked_list.cpp",
+  "output": "05_data_structures/day_02/CMakeFiles/linked_list.dir/src/linked_list.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/05_data_structures/day_03",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_03/include -std=gnu++17 -arch arm64 -o CMakeFiles/hashmap.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_03/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_03/src/main.cpp",
+  "output": "05_data_structures/day_03/CMakeFiles/hashmap.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/05_data_structures/day_03",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_03/include -std=gnu++17 -arch arm64 -o CMakeFiles/hashmap.dir/src/hashmap.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_03/src/hashmap.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/05_data_structures/day_03/src/hashmap.cpp",
+  "output": "05_data_structures/day_03/CMakeFiles/hashmap.dir/src/hashmap.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/06_algorithms/day_01",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_01/include -std=gnu++17 -arch arm64 -o CMakeFiles/sorting.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_01/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_01/src/main.cpp",
+  "output": "06_algorithms/day_01/CMakeFiles/sorting.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/06_algorithms/day_01",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_01/include -std=gnu++17 -arch arm64 -o CMakeFiles/sorting.dir/src/sorting.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_01/src/sorting.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_01/src/sorting.cpp",
+  "output": "06_algorithms/day_01/CMakeFiles/sorting.dir/src/sorting.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/06_algorithms/day_02",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_02/include -std=gnu++17 -arch arm64 -o CMakeFiles/searching.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_02/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_02/src/main.cpp",
+  "output": "06_algorithms/day_02/CMakeFiles/searching.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/06_algorithms/day_02",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_02/include -std=gnu++17 -arch arm64 -o CMakeFiles/searching.dir/src/searching.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_02/src/searching.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_02/src/searching.cpp",
+  "output": "06_algorithms/day_02/CMakeFiles/searching.dir/src/searching.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/06_algorithms/day_03",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_03/include -std=gnu++17 -arch arm64 -o CMakeFiles/graphs.dir/src/main.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_03/src/main.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_03/src/main.cpp",
+  "output": "06_algorithms/day_03/CMakeFiles/graphs.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/06_algorithms/day_03",
+  "command": "/usr/bin/c++  -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_03/include -std=gnu++17 -arch arm64 -o CMakeFiles/graphs.dir/src/graph.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_03/src/graph.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/06_algorithms/day_03/src/graph.cpp",
+  "output": "06_algorithms/day_03/CMakeFiles/graphs.dir/src/graph.cpp.o"
+},
+{
+  "directory": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/11_capstones/capstone_01_game_engine/cpp",
+  "command": "/usr/bin/c++ -Dengine_EXPORTS -I/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/include -std=gnu++17 -arch arm64 -fPIC -o CMakeFiles/engine.dir/src/engine.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/src/engine.cpp",
+  "file": "/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/src/engine.cpp",
+  "output": "11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/engine.cpp.o"
+}
+]

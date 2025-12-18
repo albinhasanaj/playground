@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(mem_dashboard LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_library(memallocator SHARED src/allocator.cpp src/stats.cpp)
+target_include_directories(memallocator PUBLIC include)

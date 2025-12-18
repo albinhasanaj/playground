@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.16)
+project(container_lib LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_library(containers SHARED src/vector.cpp src/list.cpp src/map.cpp)
+target_include_directories(containers PUBLIC include)
+add_executable(container_test src/main.cpp)
+target_link_libraries(container_test PRIVATE containers)

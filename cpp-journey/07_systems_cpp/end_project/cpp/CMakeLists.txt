@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.16)
+project(kv_store LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_library(kvstore SHARED src/store.cpp src/btree.cpp src/disk.cpp)
+target_include_directories(kvstore PUBLIC include)
+add_executable(kv_test src/main.cpp)
+target_link_libraries(kv_test PRIVATE kvstore)

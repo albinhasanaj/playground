@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(num_solver LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_library(solver SHARED src/ode.cpp src/pde.cpp src/linalg.cpp)
+target_include_directories(solver PUBLIC include)

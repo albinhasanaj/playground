@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.16)
+project(mini_sql LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_library(sql_engine SHARED src/engine.cpp src/parser.cpp src/executor.cpp src/storage.cpp)
+target_include_directories(sql_engine PUBLIC include)
+add_executable(sql_test src/main.cpp)
+target_link_libraries(sql_test PRIVATE sql_engine)

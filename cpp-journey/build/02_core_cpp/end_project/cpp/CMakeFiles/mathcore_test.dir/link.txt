@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/mathcore_test.dir/src/main.cpp.o -o mathcore_test  -Wl,-rpath,/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/02_core_cpp/end_project/cpp libmathcore.dylib

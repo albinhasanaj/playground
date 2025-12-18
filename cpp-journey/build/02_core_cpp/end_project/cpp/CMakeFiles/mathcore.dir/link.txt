@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libmathcore.dylib -install_name @rpath/libmathcore.dylib CMakeFiles/mathcore.dir/src/vector.cpp.o CMakeFiles/mathcore.dir/src/matrix.cpp.o CMakeFiles/mathcore.dir/src/stats.cpp.o

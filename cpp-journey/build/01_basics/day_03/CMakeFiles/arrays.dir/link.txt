@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/arrays.dir/src/main.cpp.o CMakeFiles/arrays.dir/src/arrays.cpp.o -o arrays

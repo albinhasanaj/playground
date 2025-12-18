@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(math_day_03 LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_executable(physics_sim src/main.cpp src/particle.cpp src/integrator.cpp)
+target_include_directories(physics_sim PRIVATE include)

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(algo_day_04 LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_library(algo_bench SHARED src/benchmark.cpp)
+target_include_directories(algo_bench PUBLIC include)

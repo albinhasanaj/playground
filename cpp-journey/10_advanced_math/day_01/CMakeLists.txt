@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(math_day_01 LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_executable(calculus src/main.cpp src/integration.cpp src/differentiation.cpp)
+target_include_directories(calculus PRIVATE include)

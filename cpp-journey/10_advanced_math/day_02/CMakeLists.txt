@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(math_day_02 LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_executable(optimization src/main.cpp src/gradient.cpp src/newton.cpp)
+target_include_directories(optimization PRIVATE include)

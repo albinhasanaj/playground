@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libmemory_utils.dylib -install_name @rpath/libmemory_utils.dylib CMakeFiles/memory_utils.dir/src/memory_utils.cpp.o

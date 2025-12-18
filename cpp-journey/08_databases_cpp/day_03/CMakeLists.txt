@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(db_day_03 LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_executable(query_engine src/main.cpp src/parser.cpp src/executor.cpp)
+target_include_directories(query_engine PRIVATE include)

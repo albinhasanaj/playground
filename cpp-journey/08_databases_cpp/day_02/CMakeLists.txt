@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.16)
+project(db_day_02 LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 17)
+add_executable(btree_index src/main.cpp src/btree.cpp)
+target_include_directories(btree_index PRIVATE include)

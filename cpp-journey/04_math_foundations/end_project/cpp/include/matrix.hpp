@@ -6,6 +6,7 @@ class DenseMatrix {
   size_t rows, cols;
 
 public:
+  DenseMatrix() : rows(0), cols(0) {}
   DenseMatrix(size_t r, size_t c);
   double &at(size_t r, size_t c);
   double at(size_t r, size_t c) const;
