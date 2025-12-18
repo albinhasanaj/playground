@@ -32,3 +32,9 @@ Implement a number analyzer that:
 
 - `src/conditionals.cpp` — implement the analysis functions
 - `src/main.cpp` — implement the main program flow
+
+## Build and Run
+
+```bash
+cd cpp-journey/build && make conditionals && ./01_basics/day_01/conditionals
+```
