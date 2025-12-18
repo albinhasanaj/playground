@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/table_storage.dir/src/main.cpp.o CMakeFiles/table_storage.dir/src/table.cpp.o CMakeFiles/table_storage.dir/src/page.cpp.o -o table_storage

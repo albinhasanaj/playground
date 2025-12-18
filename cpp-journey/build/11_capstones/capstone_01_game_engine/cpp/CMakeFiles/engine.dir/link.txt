@@ -1,1 +1,1 @@
-/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libengine.dylib -install_name @rpath/libengine.dylib CMakeFiles/engine.dir/src/engine.cpp.o
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libengine.dylib -install_name @rpath/libengine.dylib CMakeFiles/engine.dir/src/engine.cpp.o CMakeFiles/engine.dir/src/entity.cpp.o CMakeFiles/engine.dir/src/renderer.cpp.o CMakeFiles/engine.dir/src/scene.cpp.o

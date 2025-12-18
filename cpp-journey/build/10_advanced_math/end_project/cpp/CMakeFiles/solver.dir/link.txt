@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libsolver.dylib -install_name @rpath/libsolver.dylib CMakeFiles/solver.dir/src/ode.cpp.o CMakeFiles/solver.dir/src/pde.cpp.o CMakeFiles/solver.dir/src/linalg.cpp.o

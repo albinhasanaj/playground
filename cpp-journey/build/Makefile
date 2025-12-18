@@ -468,6 +468,32 @@ hashmap/fast:
 .PHONY : hashmap/fast
 
 #=============================================================================
+# Target rules for targets named containers
+
+# Build rule for target.
+containers: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 containers
+.PHONY : containers
+
+# fast build rule for target.
+containers/fast:
+	$(MAKE) $(MAKESILENT) -f 05_data_structures/end_project/cpp/CMakeFiles/containers.dir/build.make 05_data_structures/end_project/cpp/CMakeFiles/containers.dir/build
+.PHONY : containers/fast
+
+#=============================================================================
+# Target rules for targets named container_test
+
+# Build rule for target.
+container_test: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 container_test
+.PHONY : container_test
+
+# fast build rule for target.
+container_test/fast:
+	$(MAKE) $(MAKESILENT) -f 05_data_structures/end_project/cpp/CMakeFiles/container_test.dir/build.make 05_data_structures/end_project/cpp/CMakeFiles/container_test.dir/build
+.PHONY : container_test/fast
+
+#=============================================================================
 # Target rules for targets named sorting
 
 # Build rule for target.
@@ -507,6 +533,266 @@ graphs/fast:
 .PHONY : graphs/fast
 
 #=============================================================================
+# Target rules for targets named algorithms
+
+# Build rule for target.
+algorithms: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 algorithms
+.PHONY : algorithms
+
+# fast build rule for target.
+algorithms/fast:
+	$(MAKE) $(MAKESILENT) -f 06_algorithms/end_project/cpp/CMakeFiles/algorithms.dir/build.make 06_algorithms/end_project/cpp/CMakeFiles/algorithms.dir/build
+.PHONY : algorithms/fast
+
+#=============================================================================
+# Target rules for targets named algo_test
+
+# Build rule for target.
+algo_test: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 algo_test
+.PHONY : algo_test
+
+# fast build rule for target.
+algo_test/fast:
+	$(MAKE) $(MAKESILENT) -f 06_algorithms/end_project/cpp/CMakeFiles/algo_test.dir/build.make 06_algorithms/end_project/cpp/CMakeFiles/algo_test.dir/build
+.PHONY : algo_test/fast
+
+#=============================================================================
+# Target rules for targets named file_io
+
+# Build rule for target.
+file_io: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 file_io
+.PHONY : file_io
+
+# fast build rule for target.
+file_io/fast:
+	$(MAKE) $(MAKESILENT) -f 07_systems_cpp/day_01/CMakeFiles/file_io.dir/build.make 07_systems_cpp/day_01/CMakeFiles/file_io.dir/build
+.PHONY : file_io/fast
+
+#=============================================================================
+# Target rules for targets named binary_format
+
+# Build rule for target.
+binary_format: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 binary_format
+.PHONY : binary_format
+
+# fast build rule for target.
+binary_format/fast:
+	$(MAKE) $(MAKESILENT) -f 07_systems_cpp/day_02/CMakeFiles/binary_format.dir/build.make 07_systems_cpp/day_02/CMakeFiles/binary_format.dir/build
+.PHONY : binary_format/fast
+
+#=============================================================================
+# Target rules for targets named serialization
+
+# Build rule for target.
+serialization: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 serialization
+.PHONY : serialization
+
+# fast build rule for target.
+serialization/fast:
+	$(MAKE) $(MAKESILENT) -f 07_systems_cpp/day_03/CMakeFiles/serialization.dir/build.make 07_systems_cpp/day_03/CMakeFiles/serialization.dir/build
+.PHONY : serialization/fast
+
+#=============================================================================
+# Target rules for targets named kvstore
+
+# Build rule for target.
+kvstore: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 kvstore
+.PHONY : kvstore
+
+# fast build rule for target.
+kvstore/fast:
+	$(MAKE) $(MAKESILENT) -f 07_systems_cpp/end_project/cpp/CMakeFiles/kvstore.dir/build.make 07_systems_cpp/end_project/cpp/CMakeFiles/kvstore.dir/build
+.PHONY : kvstore/fast
+
+#=============================================================================
+# Target rules for targets named kv_test
+
+# Build rule for target.
+kv_test: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 kv_test
+.PHONY : kv_test
+
+# fast build rule for target.
+kv_test/fast:
+	$(MAKE) $(MAKESILENT) -f 07_systems_cpp/end_project/cpp/CMakeFiles/kv_test.dir/build.make 07_systems_cpp/end_project/cpp/CMakeFiles/kv_test.dir/build
+.PHONY : kv_test/fast
+
+#=============================================================================
+# Target rules for targets named table_storage
+
+# Build rule for target.
+table_storage: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 table_storage
+.PHONY : table_storage
+
+# fast build rule for target.
+table_storage/fast:
+	$(MAKE) $(MAKESILENT) -f 08_databases_cpp/day_01/CMakeFiles/table_storage.dir/build.make 08_databases_cpp/day_01/CMakeFiles/table_storage.dir/build
+.PHONY : table_storage/fast
+
+#=============================================================================
+# Target rules for targets named btree_index
+
+# Build rule for target.
+btree_index: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 btree_index
+.PHONY : btree_index
+
+# fast build rule for target.
+btree_index/fast:
+	$(MAKE) $(MAKESILENT) -f 08_databases_cpp/day_02/CMakeFiles/btree_index.dir/build.make 08_databases_cpp/day_02/CMakeFiles/btree_index.dir/build
+.PHONY : btree_index/fast
+
+#=============================================================================
+# Target rules for targets named query_engine
+
+# Build rule for target.
+query_engine: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 query_engine
+.PHONY : query_engine
+
+# fast build rule for target.
+query_engine/fast:
+	$(MAKE) $(MAKESILENT) -f 08_databases_cpp/day_03/CMakeFiles/query_engine.dir/build.make 08_databases_cpp/day_03/CMakeFiles/query_engine.dir/build
+.PHONY : query_engine/fast
+
+#=============================================================================
+# Target rules for targets named sql_engine
+
+# Build rule for target.
+sql_engine: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 sql_engine
+.PHONY : sql_engine
+
+# fast build rule for target.
+sql_engine/fast:
+	$(MAKE) $(MAKESILENT) -f 08_databases_cpp/end_project/cpp/CMakeFiles/sql_engine.dir/build.make 08_databases_cpp/end_project/cpp/CMakeFiles/sql_engine.dir/build
+.PHONY : sql_engine/fast
+
+#=============================================================================
+# Target rules for targets named sql_test
+
+# Build rule for target.
+sql_test: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 sql_test
+.PHONY : sql_test
+
+# fast build rule for target.
+sql_test/fast:
+	$(MAKE) $(MAKESILENT) -f 08_databases_cpp/end_project/cpp/CMakeFiles/sql_test.dir/build.make 08_databases_cpp/end_project/cpp/CMakeFiles/sql_test.dir/build
+.PHONY : sql_test/fast
+
+#=============================================================================
+# Target rules for targets named allocators
+
+# Build rule for target.
+allocators: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 allocators
+.PHONY : allocators
+
+# fast build rule for target.
+allocators/fast:
+	$(MAKE) $(MAKESILENT) -f 09_performance/day_01/CMakeFiles/allocators.dir/build.make 09_performance/day_01/CMakeFiles/allocators.dir/build
+.PHONY : allocators/fast
+
+#=============================================================================
+# Target rules for targets named cache_opt
+
+# Build rule for target.
+cache_opt: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 cache_opt
+.PHONY : cache_opt
+
+# fast build rule for target.
+cache_opt/fast:
+	$(MAKE) $(MAKESILENT) -f 09_performance/day_02/CMakeFiles/cache_opt.dir/build.make 09_performance/day_02/CMakeFiles/cache_opt.dir/build
+.PHONY : cache_opt/fast
+
+#=============================================================================
+# Target rules for targets named bench_demo
+
+# Build rule for target.
+bench_demo: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 bench_demo
+.PHONY : bench_demo
+
+# fast build rule for target.
+bench_demo/fast:
+	$(MAKE) $(MAKESILENT) -f 09_performance/day_03/CMakeFiles/bench_demo.dir/build.make 09_performance/day_03/CMakeFiles/bench_demo.dir/build
+.PHONY : bench_demo/fast
+
+#=============================================================================
+# Target rules for targets named memallocator
+
+# Build rule for target.
+memallocator: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 memallocator
+.PHONY : memallocator
+
+# fast build rule for target.
+memallocator/fast:
+	$(MAKE) $(MAKESILENT) -f 09_performance/end_project/cpp/CMakeFiles/memallocator.dir/build.make 09_performance/end_project/cpp/CMakeFiles/memallocator.dir/build
+.PHONY : memallocator/fast
+
+#=============================================================================
+# Target rules for targets named calculus
+
+# Build rule for target.
+calculus: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 calculus
+.PHONY : calculus
+
+# fast build rule for target.
+calculus/fast:
+	$(MAKE) $(MAKESILENT) -f 10_advanced_math/day_01/CMakeFiles/calculus.dir/build.make 10_advanced_math/day_01/CMakeFiles/calculus.dir/build
+.PHONY : calculus/fast
+
+#=============================================================================
+# Target rules for targets named optimization
+
+# Build rule for target.
+optimization: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 optimization
+.PHONY : optimization
+
+# fast build rule for target.
+optimization/fast:
+	$(MAKE) $(MAKESILENT) -f 10_advanced_math/day_02/CMakeFiles/optimization.dir/build.make 10_advanced_math/day_02/CMakeFiles/optimization.dir/build
+.PHONY : optimization/fast
+
+#=============================================================================
+# Target rules for targets named physics_sim
+
+# Build rule for target.
+physics_sim: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 physics_sim
+.PHONY : physics_sim
+
+# fast build rule for target.
+physics_sim/fast:
+	$(MAKE) $(MAKESILENT) -f 10_advanced_math/day_03/CMakeFiles/physics_sim.dir/build.make 10_advanced_math/day_03/CMakeFiles/physics_sim.dir/build
+.PHONY : physics_sim/fast
+
+#=============================================================================
+# Target rules for targets named solver
+
+# Build rule for target.
+solver: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 solver
+.PHONY : solver
+
+# fast build rule for target.
+solver/fast:
+	$(MAKE) $(MAKESILENT) -f 10_advanced_math/end_project/cpp/CMakeFiles/solver.dir/build.make 10_advanced_math/end_project/cpp/CMakeFiles/solver.dir/build
+.PHONY : solver/fast
+
+#=============================================================================
 # Target rules for targets named engine
 
 # Build rule for target.
@@ -519,6 +805,32 @@ engine/fast:
 	$(MAKE) $(MAKESILENT) -f 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/build.make 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/build
 .PHONY : engine/fast
 
+#=============================================================================
+# Target rules for targets named compiler_lib
+
+# Build rule for target.
+compiler_lib: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 compiler_lib
+.PHONY : compiler_lib
+
+# fast build rule for target.
+compiler_lib/fast:
+	$(MAKE) $(MAKESILENT) -f 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/build.make 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/build
+.PHONY : compiler_lib/fast
+
+#=============================================================================
+# Target rules for targets named node_lib
+
+# Build rule for target.
+node_lib: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 node_lib
+.PHONY : node_lib
+
+# fast build rule for target.
+node_lib/fast:
+	$(MAKE) $(MAKESILENT) -f 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/build.make 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/build
+.PHONY : node_lib/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -527,18 +839,32 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... algo_test"
+	@echo "... algorithms"
+	@echo "... allocators"
 	@echo "... arrays"
+	@echo "... bench_demo"
+	@echo "... binary_format"
+	@echo "... btree_index"
+	@echo "... cache_opt"
 	@echo "... calculator"
+	@echo "... calculus"
 	@echo "... classes"
+	@echo "... compiler_lib"
 	@echo "... conditionals"
 	@echo "... const_correctness"
+	@echo "... container_test"
+	@echo "... containers"
 	@echo "... dynamic_array"
 	@echo "... engine"
 	@echo "... enums_structs"
+	@echo "... file_io"
 	@echo "... functions"
 	@echo "... graphs"
 	@echo "... hashmap"
 	@echo "... headers_demo"
+	@echo "... kv_test"
+	@echo "... kvstore"
 	@echo "... linalg_full"
 	@echo "... linalg_test"
 	@echo "... linked_list"
@@ -546,15 +872,25 @@ help:
 	@echo "... mathcore"
 	@echo "... mathcore_test"
 	@echo "... matrices"
+	@echo "... memallocator"
 	@echo "... memory_test"
 	@echo "... memory_utils"
+	@echo "... node_lib"
 	@echo "... numerical"
+	@echo "... optimization"
+	@echo "... physics_sim"
 	@echo "... pointers"
+	@echo "... query_engine"
 	@echo "... raii"
 	@echo "... references"
 	@echo "... searching"
+	@echo "... serialization"
+	@echo "... solver"
 	@echo "... sorting"
+	@echo "... sql_engine"
+	@echo "... sql_test"
 	@echo "... stack_heap"
+	@echo "... table_storage"
 	@echo "... transforms"
 	@echo "... vecmath"
 	@echo "... vecmath_test"

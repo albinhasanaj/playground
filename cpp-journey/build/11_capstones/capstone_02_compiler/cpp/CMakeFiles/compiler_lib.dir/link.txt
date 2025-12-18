@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libcompiler_lib.dylib -install_name @rpath/libcompiler_lib.dylib CMakeFiles/compiler_lib.dir/src/ast.cpp.o CMakeFiles/compiler_lib.dir/src/lexer.cpp.o CMakeFiles/compiler_lib.dir/src/parser.cpp.o

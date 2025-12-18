@@ -116,6 +116,92 @@ depend:
 	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
+# Convenience name for target.
+11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/rule:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/rule
+.PHONY : 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/rule
+
+# Convenience name for target.
+compiler_lib: 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/rule
+.PHONY : compiler_lib
+
+# fast build rule for target.
+compiler_lib/fast:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/build.make 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/build
+.PHONY : compiler_lib/fast
+
+src/ast.o: src/ast.cpp.o
+.PHONY : src/ast.o
+
+# target to build an object file
+src/ast.cpp.o:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/build.make 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/src/ast.cpp.o
+.PHONY : src/ast.cpp.o
+
+src/ast.i: src/ast.cpp.i
+.PHONY : src/ast.i
+
+# target to preprocess a source file
+src/ast.cpp.i:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/build.make 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/src/ast.cpp.i
+.PHONY : src/ast.cpp.i
+
+src/ast.s: src/ast.cpp.s
+.PHONY : src/ast.s
+
+# target to generate assembly for a file
+src/ast.cpp.s:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/build.make 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/src/ast.cpp.s
+.PHONY : src/ast.cpp.s
+
+src/lexer.o: src/lexer.cpp.o
+.PHONY : src/lexer.o
+
+# target to build an object file
+src/lexer.cpp.o:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/build.make 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/src/lexer.cpp.o
+.PHONY : src/lexer.cpp.o
+
+src/lexer.i: src/lexer.cpp.i
+.PHONY : src/lexer.i
+
+# target to preprocess a source file
+src/lexer.cpp.i:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/build.make 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/src/lexer.cpp.i
+.PHONY : src/lexer.cpp.i
+
+src/lexer.s: src/lexer.cpp.s
+.PHONY : src/lexer.s
+
+# target to generate assembly for a file
+src/lexer.cpp.s:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/build.make 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/src/lexer.cpp.s
+.PHONY : src/lexer.cpp.s
+
+src/parser.o: src/parser.cpp.o
+.PHONY : src/parser.o
+
+# target to build an object file
+src/parser.cpp.o:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/build.make 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/src/parser.cpp.o
+.PHONY : src/parser.cpp.o
+
+src/parser.i: src/parser.cpp.i
+.PHONY : src/parser.i
+
+# target to preprocess a source file
+src/parser.cpp.i:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/build.make 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/src/parser.cpp.i
+.PHONY : src/parser.cpp.i
+
+src/parser.s: src/parser.cpp.s
+.PHONY : src/parser.s
+
+# target to generate assembly for a file
+src/parser.cpp.s:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/build.make 11_capstones/capstone_02_compiler/cpp/CMakeFiles/compiler_lib.dir/src/parser.cpp.s
+.PHONY : src/parser.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -124,6 +210,16 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... compiler_lib"
+	@echo "... src/ast.o"
+	@echo "... src/ast.i"
+	@echo "... src/ast.s"
+	@echo "... src/lexer.o"
+	@echo "... src/lexer.i"
+	@echo "... src/lexer.s"
+	@echo "... src/parser.o"
+	@echo "... src/parser.i"
+	@echo "... src/parser.s"
 .PHONY : help
 
 

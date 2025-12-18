@@ -86,17 +86,65 @@ include 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/flags.mak
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/engine.dir/src/engine.cpp.s"
 	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/11_capstones/capstone_01_game_engine/cpp && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/src/engine.cpp -o CMakeFiles/engine.dir/src/engine.cpp.s
 
+11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/entity.cpp.o: 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/flags.make
+11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/entity.cpp.o: /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/src/entity.cpp
+11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/entity.cpp.o: 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/entity.cpp.o"
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/11_capstones/capstone_01_game_engine/cpp && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/entity.cpp.o -MF CMakeFiles/engine.dir/src/entity.cpp.o.d -o CMakeFiles/engine.dir/src/entity.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/src/entity.cpp
+
+11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/entity.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/engine.dir/src/entity.cpp.i"
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/11_capstones/capstone_01_game_engine/cpp && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/src/entity.cpp > CMakeFiles/engine.dir/src/entity.cpp.i
+
+11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/entity.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/engine.dir/src/entity.cpp.s"
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/11_capstones/capstone_01_game_engine/cpp && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/src/entity.cpp -o CMakeFiles/engine.dir/src/entity.cpp.s
+
+11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/renderer.cpp.o: 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/flags.make
+11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/renderer.cpp.o: /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/src/renderer.cpp
+11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/renderer.cpp.o: 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/renderer.cpp.o"
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/11_capstones/capstone_01_game_engine/cpp && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/renderer.cpp.o -MF CMakeFiles/engine.dir/src/renderer.cpp.o.d -o CMakeFiles/engine.dir/src/renderer.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/src/renderer.cpp
+
+11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/renderer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/engine.dir/src/renderer.cpp.i"
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/11_capstones/capstone_01_game_engine/cpp && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/src/renderer.cpp > CMakeFiles/engine.dir/src/renderer.cpp.i
+
+11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/renderer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/engine.dir/src/renderer.cpp.s"
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/11_capstones/capstone_01_game_engine/cpp && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/src/renderer.cpp -o CMakeFiles/engine.dir/src/renderer.cpp.s
+
+11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/scene.cpp.o: 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/flags.make
+11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/scene.cpp.o: /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/src/scene.cpp
+11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/scene.cpp.o: 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/scene.cpp.o"
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/11_capstones/capstone_01_game_engine/cpp && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/scene.cpp.o -MF CMakeFiles/engine.dir/src/scene.cpp.o.d -o CMakeFiles/engine.dir/src/scene.cpp.o -c /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/src/scene.cpp
+
+11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/scene.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/engine.dir/src/scene.cpp.i"
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/11_capstones/capstone_01_game_engine/cpp && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/src/scene.cpp > CMakeFiles/engine.dir/src/scene.cpp.i
+
+11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/scene.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/engine.dir/src/scene.cpp.s"
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/11_capstones/capstone_01_game_engine/cpp && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/11_capstones/capstone_01_game_engine/cpp/src/scene.cpp -o CMakeFiles/engine.dir/src/scene.cpp.s
+
 # Object files for target engine
 engine_OBJECTS = \
-"CMakeFiles/engine.dir/src/engine.cpp.o"
+"CMakeFiles/engine.dir/src/engine.cpp.o" \
+"CMakeFiles/engine.dir/src/entity.cpp.o" \
+"CMakeFiles/engine.dir/src/renderer.cpp.o" \
+"CMakeFiles/engine.dir/src/scene.cpp.o"
 
 # External object files for target engine
 engine_EXTERNAL_OBJECTS =
 
 11_capstones/capstone_01_game_engine/cpp/libengine.dylib: 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/engine.cpp.o
+11_capstones/capstone_01_game_engine/cpp/libengine.dylib: 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/entity.cpp.o
+11_capstones/capstone_01_game_engine/cpp/libengine.dylib: 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/renderer.cpp.o
+11_capstones/capstone_01_game_engine/cpp/libengine.dylib: 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/scene.cpp.o
 11_capstones/capstone_01_game_engine/cpp/libengine.dylib: 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/build.make
 11_capstones/capstone_01_game_engine/cpp/libengine.dylib: 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX shared library libengine.dylib"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX shared library libengine.dylib"
 	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/11_capstones/capstone_01_game_engine/cpp && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/engine.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

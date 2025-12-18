@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libkvstore.dylib -install_name @rpath/libkvstore.dylib CMakeFiles/kvstore.dir/src/store.cpp.o CMakeFiles/kvstore.dir/src/btree.cpp.o CMakeFiles/kvstore.dir/src/disk.cpp.o

@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libalgorithms.dylib -install_name @rpath/libalgorithms.dylib CMakeFiles/algorithms.dir/src/sorting.cpp.o CMakeFiles/algorithms.dir/src/searching.cpp.o CMakeFiles/algorithms.dir/src/graphs.cpp.o CMakeFiles/algorithms.dir/src/benchmark.cpp.o

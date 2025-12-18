@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/sql_test.dir/src/main.cpp.o -o sql_test  -Wl,-rpath,/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/08_databases_cpp/end_project/cpp libsql_engine.dylib

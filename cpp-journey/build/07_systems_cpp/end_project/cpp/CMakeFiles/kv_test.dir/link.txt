@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/kv_test.dir/src/main.cpp.o -o kv_test  -Wl,-rpath,/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/07_systems_cpp/end_project/cpp libkvstore.dylib

@@ -154,6 +154,78 @@ src/engine.cpp.s:
 	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/build.make 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/engine.cpp.s
 .PHONY : src/engine.cpp.s
 
+src/entity.o: src/entity.cpp.o
+.PHONY : src/entity.o
+
+# target to build an object file
+src/entity.cpp.o:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/build.make 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/entity.cpp.o
+.PHONY : src/entity.cpp.o
+
+src/entity.i: src/entity.cpp.i
+.PHONY : src/entity.i
+
+# target to preprocess a source file
+src/entity.cpp.i:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/build.make 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/entity.cpp.i
+.PHONY : src/entity.cpp.i
+
+src/entity.s: src/entity.cpp.s
+.PHONY : src/entity.s
+
+# target to generate assembly for a file
+src/entity.cpp.s:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/build.make 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/entity.cpp.s
+.PHONY : src/entity.cpp.s
+
+src/renderer.o: src/renderer.cpp.o
+.PHONY : src/renderer.o
+
+# target to build an object file
+src/renderer.cpp.o:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/build.make 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/renderer.cpp.o
+.PHONY : src/renderer.cpp.o
+
+src/renderer.i: src/renderer.cpp.i
+.PHONY : src/renderer.i
+
+# target to preprocess a source file
+src/renderer.cpp.i:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/build.make 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/renderer.cpp.i
+.PHONY : src/renderer.cpp.i
+
+src/renderer.s: src/renderer.cpp.s
+.PHONY : src/renderer.s
+
+# target to generate assembly for a file
+src/renderer.cpp.s:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/build.make 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/renderer.cpp.s
+.PHONY : src/renderer.cpp.s
+
+src/scene.o: src/scene.cpp.o
+.PHONY : src/scene.o
+
+# target to build an object file
+src/scene.cpp.o:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/build.make 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/scene.cpp.o
+.PHONY : src/scene.cpp.o
+
+src/scene.i: src/scene.cpp.i
+.PHONY : src/scene.i
+
+# target to preprocess a source file
+src/scene.cpp.i:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/build.make 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/scene.cpp.i
+.PHONY : src/scene.cpp.i
+
+src/scene.s: src/scene.cpp.s
+.PHONY : src/scene.s
+
+# target to generate assembly for a file
+src/scene.cpp.s:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/build.make 11_capstones/capstone_01_game_engine/cpp/CMakeFiles/engine.dir/src/scene.cpp.s
+.PHONY : src/scene.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -166,6 +238,15 @@ help:
 	@echo "... src/engine.o"
 	@echo "... src/engine.i"
 	@echo "... src/engine.s"
+	@echo "... src/entity.o"
+	@echo "... src/entity.i"
+	@echo "... src/entity.s"
+	@echo "... src/renderer.o"
+	@echo "... src/renderer.i"
+	@echo "... src/renderer.s"
+	@echo "... src/scene.o"
+	@echo "... src/scene.i"
+	@echo "... src/scene.s"
 .PHONY : help
 
 

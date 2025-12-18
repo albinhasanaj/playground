@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libnode_lib.dylib -install_name @rpath/libnode_lib.dylib CMakeFiles/node_lib.dir/src/message.cpp.o CMakeFiles/node_lib.dir/src/network.cpp.o CMakeFiles/node_lib.dir/src/node.cpp.o

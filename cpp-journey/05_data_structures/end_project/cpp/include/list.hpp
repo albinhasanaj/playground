@@ -1,4 +1,5 @@
 #pragma once
+#include <cstddef>
 
 template <typename T> class List {
   struct Node {
@@ -16,26 +17,31 @@ public:
 
   public:
     iterator(Node *n) : m_node(n) {}
-    T &operator*();
-    iterator &operator++();
-    bool operator!=(const iterator &other) const;
+    T &operator*() { return m_node->data; }
+    iterator &operator++() {
+      m_node = m_node->next;
+      return *this;
+    }
+    bool operator!=(const iterator &other) const {
+      return m_node != other.m_node;
+    }
   };
 
-  List();
-  ~List();
+  List() : m_head(nullptr), m_tail(nullptr), m_size(0) {}
+  ~List() { /* TODO */ }
 
-  void push_front(const T &value);
-  void push_back(const T &value);
-  void pop_front();
-  void pop_back();
-  void insert(iterator pos, const T &value);
-  void erase(iterator pos);
+  void push_front(const T &value) { /* TODO */ }
+  void push_back(const T &value) { /* TODO */ }
+  void pop_front() { /* TODO */ }
+  void pop_back() { /* TODO */ }
+  void insert(iterator pos, const T &value) { /* TODO */ }
+  void erase(iterator pos) { /* TODO */ }
 
-  T &front();
-  T &back();
-  size_t size() const;
-  bool empty() const;
+  T &front() { return m_head->data; }
+  T &back() { return m_tail->data; }
+  size_t size() const { return m_size; }
+  bool empty() const { return m_size == 0; }
 
-  iterator begin();
-  iterator end();
+  iterator begin() { return iterator(m_head); }
+  iterator end() { return iterator(nullptr); }
 };

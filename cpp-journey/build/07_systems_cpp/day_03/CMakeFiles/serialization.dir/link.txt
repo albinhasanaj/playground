@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/serialization.dir/src/main.cpp.o CMakeFiles/serialization.dir/src/json.cpp.o CMakeFiles/serialization.dir/src/binary.cpp.o -o serialization

@@ -116,6 +116,92 @@ depend:
 	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(CMAKE_COMMAND) -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR) --check-build-system CMakeFiles/Makefile.cmake 1
 .PHONY : depend
 
+# Convenience name for target.
+11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/rule:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/rule
+.PHONY : 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/rule
+
+# Convenience name for target.
+node_lib: 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/rule
+.PHONY : node_lib
+
+# fast build rule for target.
+node_lib/fast:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/build.make 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/build
+.PHONY : node_lib/fast
+
+src/message.o: src/message.cpp.o
+.PHONY : src/message.o
+
+# target to build an object file
+src/message.cpp.o:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/build.make 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/src/message.cpp.o
+.PHONY : src/message.cpp.o
+
+src/message.i: src/message.cpp.i
+.PHONY : src/message.i
+
+# target to preprocess a source file
+src/message.cpp.i:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/build.make 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/src/message.cpp.i
+.PHONY : src/message.cpp.i
+
+src/message.s: src/message.cpp.s
+.PHONY : src/message.s
+
+# target to generate assembly for a file
+src/message.cpp.s:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/build.make 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/src/message.cpp.s
+.PHONY : src/message.cpp.s
+
+src/network.o: src/network.cpp.o
+.PHONY : src/network.o
+
+# target to build an object file
+src/network.cpp.o:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/build.make 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/src/network.cpp.o
+.PHONY : src/network.cpp.o
+
+src/network.i: src/network.cpp.i
+.PHONY : src/network.i
+
+# target to preprocess a source file
+src/network.cpp.i:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/build.make 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/src/network.cpp.i
+.PHONY : src/network.cpp.i
+
+src/network.s: src/network.cpp.s
+.PHONY : src/network.s
+
+# target to generate assembly for a file
+src/network.cpp.s:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/build.make 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/src/network.cpp.s
+.PHONY : src/network.cpp.s
+
+src/node.o: src/node.cpp.o
+.PHONY : src/node.o
+
+# target to build an object file
+src/node.cpp.o:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/build.make 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/src/node.cpp.o
+.PHONY : src/node.cpp.o
+
+src/node.i: src/node.cpp.i
+.PHONY : src/node.i
+
+# target to preprocess a source file
+src/node.cpp.i:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/build.make 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/src/node.cpp.i
+.PHONY : src/node.cpp.i
+
+src/node.s: src/node.cpp.s
+.PHONY : src/node.s
+
+# target to generate assembly for a file
+src/node.cpp.s:
+	cd /Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build && $(MAKE) $(MAKESILENT) -f 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/build.make 11_capstones/capstone_03_distributed/cpp/CMakeFiles/node_lib.dir/src/node.cpp.s
+.PHONY : src/node.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -124,6 +210,16 @@ help:
 	@echo "... depend"
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
+	@echo "... node_lib"
+	@echo "... src/message.o"
+	@echo "... src/message.i"
+	@echo "... src/message.s"
+	@echo "... src/network.o"
+	@echo "... src/network.i"
+	@echo "... src/network.s"
+	@echo "... src/node.o"
+	@echo "... src/node.i"
+	@echo "... src/node.s"
 .PHONY : help
 
 
