@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/hashmap.dir/src/main.cpp.o CMakeFiles/hashmap.dir/src/hashmap.cpp.o -o hashmap

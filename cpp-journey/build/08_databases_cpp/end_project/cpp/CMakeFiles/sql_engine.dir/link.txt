@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libsql_engine.dylib -install_name @rpath/libsql_engine.dylib CMakeFiles/sql_engine.dir/src/engine.cpp.o CMakeFiles/sql_engine.dir/src/parser.cpp.o CMakeFiles/sql_engine.dir/src/executor.cpp.o CMakeFiles/sql_engine.dir/src/storage.cpp.o

@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/container_test.dir/src/main.cpp.o -o container_test  -Wl,-rpath,/Users/albinhasanaj/Desktop/cpp-playground/cpp-journey/build/05_data_structures/end_project/cpp libcontainers.dylib

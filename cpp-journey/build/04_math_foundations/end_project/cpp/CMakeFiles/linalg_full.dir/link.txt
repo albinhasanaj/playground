@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o liblinalg_full.dylib -install_name @rpath/liblinalg_full.dylib CMakeFiles/linalg_full.dir/src/matrix.cpp.o CMakeFiles/linalg_full.dir/src/decomposition.cpp.o CMakeFiles/linalg_full.dir/src/solver.cpp.o

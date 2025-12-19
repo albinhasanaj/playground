@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -dynamiclib -Wl,-headerpad_max_install_names -o libcontainers.dylib -install_name @rpath/libcontainers.dylib CMakeFiles/containers.dir/src/vector.cpp.o CMakeFiles/containers.dir/src/list.cpp.o CMakeFiles/containers.dir/src/map.cpp.o

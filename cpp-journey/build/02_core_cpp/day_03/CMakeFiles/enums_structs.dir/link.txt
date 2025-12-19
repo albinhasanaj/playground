@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/enums_structs.dir/src/main.cpp.o CMakeFiles/enums_structs.dir/src/shapes.cpp.o CMakeFiles/enums_structs.dir/src/colors.cpp.o -o enums_structs

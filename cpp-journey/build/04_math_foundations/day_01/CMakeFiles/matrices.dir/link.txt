@@ -1,1 +1,0 @@
-/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/matrices.dir/src/main.cpp.o CMakeFiles/matrices.dir/src/matrix.cpp.o -o matrices
