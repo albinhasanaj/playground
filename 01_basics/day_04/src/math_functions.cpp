@@ -3,21 +3,30 @@
 long long powerIterative(int x, int n) {
   // TODO: Compute x^n using a for loop
   // HINT: Start with result = 1, multiply by x, n times
-  return 0;
+  long long result = 1;
+
+  for (int i = 0; i < n; i++) {
+    result *= x;
+  }
+
+  return result;
 }
 
 long long powerRecursive(int x, int n) {
   // TODO: Compute x^n recursively
   // BASE CASE: n == 0 returns 1
   // RECURSIVE CASE: x * power(x, n-1)
-  return 0;
+  if (n == 0) {
+    return 1;
+  }
+
+  return x * powerRecursive(x, n - 1);
 }
 
 int gcd(int a, int b) {
   // TODO: Implement Euclidean algorithm
   // ALGORITHM: gcd(a, b) = gcd(b, a % b) until b = 0
   // HINT: Can be done iteratively or recursively
-  return 0;
 }
 
 int lcm(int a, int b) {
